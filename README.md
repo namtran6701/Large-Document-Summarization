@@ -78,6 +78,3 @@ SOFTWARE.
 ## Contributors
 
 Nam Tran
-````
-
-This updated README now includes your name as the contributor and incorporates the MIT license. The MIT license is a permissive open-source license that allows others to use, modify, and distribute your code with minimal restrictions, as long as they include the original copyright notice and license text.
