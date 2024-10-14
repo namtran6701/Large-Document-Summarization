@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter notebook demonstrates advanced techniques for summarizing large documents, specifically focusing on financial reports from Home Depot. It compares two different methods of PDF parsing and utilizes LangChain's Refine summarization technique to generate comprehensive summaries.
+This Jupyter notebook demonstrates advanced techniques for summarizing large documents, specifically focusing on financial reports. It compares two different methods of PDF parsing and utilizes LangChain's Refine summarization technique to generate comprehensive summaries.
 
 ## Key Features
 
@@ -30,8 +30,7 @@ This Jupyter notebook demonstrates advanced techniques for summarizing large doc
 
 1. Clone this repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Set up your `.env` file with Azure OpenAI API credentials
-4. Place the Home Depot PDF documents in the `./data` directory
+3. Set up your `.env` file with Azure OpenAI API and Llama Cloud API credentials
 
 ## Usage
 
@@ -78,13 +77,7 @@ SOFTWARE.
 
 ## Contributors
 
-Nam
-
-## Acknowledgments
-
-- LangChain
-- LlamaParse
-- Azure OpenAI
+Nam Tran
 ````
 
 This updated README now includes your name as the contributor and incorporates the MIT license. The MIT license is a permissive open-source license that allows others to use, modify, and distribute your code with minimal restrictions, as long as they include the original copyright notice and license text.
